@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_tourist">
+        <item>La Montaña Que Piensa</item>
+        <item>Acuaparque Ditaires</item>
+        <item>Centro de la Moda</item>
+    </string-array>
+</resources>
